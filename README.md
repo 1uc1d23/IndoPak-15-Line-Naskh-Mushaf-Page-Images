@@ -61,7 +61,3 @@ The original Quran page images are credited to the **King Fahad Quran Printing C
 ## Purpose
 
 This repository provides both the original page images and standardized versions for **comparison, reference, and use in projects** that require a consistent representation of the IndoPak 15-Line Naskh Mushaf.
-
-## Disclaimer
-
-Please verify the applicable **licensing, permissions, and distribution terms** for the original page images before redistributing or using them in other projects.
