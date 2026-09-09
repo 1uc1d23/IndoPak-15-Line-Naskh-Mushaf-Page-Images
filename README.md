@@ -8,7 +8,7 @@ Comparison
 
 The following comparison shows the same Quran page in its original Mushaf form and in a clean, standardized version.
 
-<table> <tr> <th>Original Mushaf</th> <th>Standardized</th> </tr> <tr> <td align="center"> <img src="original_pages/604.png" alt="Original Mushaf page 604" width="400"> </td> <td align="center"> <img src="standardized_pages/604.png" alt="Standardized Mushaf page 604" width="400"> </td> </tr> <tr> <td align="center">Original page image from the Mushaf.</td> <td align="center">Clean, standardized version without decorative designs and additional visual elements.</td> </tr> </table>
+<table> <tr> <th>Original Mushaf</th> <th>Standardized</th> </tr> <tr> <td align="center" valign="middle"> <div style="width: 400px; height: 600px; display: flex; align-items: center; justify-content: center;"> <img src="original_pages/608.jpg" alt="Original Mushaf page 604" style="width: 400px; height: 600px; object-fit: contain;"> </div> </td> <td align="center" valign="middle"> <div style="width: 400px; height: 600px; display: flex; align-items: center; justify-content: center;"> <img src="standardized_pages/604.png" alt="Standardized Mushaf page 604" style="width: 400px; height: 600px; object-fit: contain;"> </div> </td> </tr> <tr> <td align="center">Original page image from the Mushaf.</td> <td align="center">Clean, standardized version without decorative designs and additional visual elements.</td> </tr> </table>
 Contents
 original_pages
 
